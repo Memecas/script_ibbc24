@@ -122,7 +122,7 @@ Sample_Name,Initial_Reads,Processed_Reads,Discarded_Reads
 
 ---
 
-## Example
+## Example of Directories Setup
 
 ### Directory Structure Before Running:
 
