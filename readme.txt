@@ -47,6 +47,7 @@ Place all input files (FASTQ/FASTQ.GZ) in the **same directory** as the script o
 
 ### Results
 The script creates a structured results directory:
+
 ```
 results/
 ├── fastqc/
@@ -57,6 +58,7 @@ results/
 ├── reports/
 │   ├── <sample_name>_fastp.log
 │   └── read_summary.csv
+
 ```
 
 ---
