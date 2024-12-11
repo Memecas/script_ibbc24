@@ -51,7 +51,7 @@ The script identifies sequencing files based on their naming patterns. Ensure yo
 ## Input and Output Directory Setup
 
 ### Input Files
-Place all input files (FASTQ/FASTQ.GZ) in the **same directory** as the script or specify the path in the `INPUT_DIR` variable in the script.
+Place all input files (FASTQ/FASTQ.GZ) in a folder named **raw_data** to be readable or specify the path in the `INPUT_DIR` variable in the script.
 
 ### Results
 The script creates a structured results directory:
