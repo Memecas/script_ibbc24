@@ -117,7 +117,7 @@ fi
 
 # Base directory setup
 BASE_DIR=$(pwd)
-INPUT_DIR="$BASE_DIR"
+INPUT_DIR="$BASE_DIR/raw_data"
 RESULTS_DIR="$BASE_DIR/results"
 FASTQC_BEFORE_DIR="$RESULTS_DIR/fastqc/before_cleaning"
 FASTQC_AFTER_DIR="$RESULTS_DIR/fastqc/after_cleaning"
